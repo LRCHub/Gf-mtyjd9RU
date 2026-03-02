@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "very special!!",
+  "base_artist": "Sambomaster",
+  "createdAt": "2026-03-02T19:36:37.651673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Very Special Love Song",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/01_A_Very_Special_Love_Song_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Very Special Love Song (Album Version)",
+      "artist": "Charlie Rich",
+      "has_synced": true,
+      "path": "select/02_A_Very_Special_Love_Song_(Album_Version)_Charlie_Rich.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Very Special",
+      "artist": "Debra Laws",
+      "has_synced": false,
+      "path": "select/03_Very_Special_Debra_Laws.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Very Special",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/04_Very_Special_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Very Special Boy",
+      "artist": "Carole King",
+      "has_synced": false,
+      "path": "select/05_A_Very_Special_Boy_Carole_King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Is a Very Special Day",
+      "artist": "Peggy Lee",
+      "has_synced": false,
+      "path": "select/06_This_Is_a_Very_Special_Day_Peggy_Lee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Something Very Special",
+      "artist": "Gordon Lightfoot",
+      "has_synced": true,
+      "path": "select/07_Something_Very_Special_Gordon_Lightfoot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Very Special Love",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/08_Very_Special_Love_Alabama.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Very Special Love",
+      "artist": "Maureen McGovern",
+      "has_synced": true,
+      "path": "select/09_Very_Special_Love_Maureen_McGovern.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Very Special Love",
+      "artist": "Sounds of Blackness",
+      "has_synced": false,
+      "path": "select/10_A_Very_Special_Love_Sounds_of_Blackness.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Very Special Love Song",
+      "artist": "Charlie Rich",
+      "has_synced": false,
+      "path": "select/11_A_Very_Special_Love_Song_Charlie_Rich.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Very Special",
+      "artist": "Davido",
+      "has_synced": true,
+      "path": "select/12_Very_Special_Davido.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "very special!!",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_very_special!!_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Very Special!!",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_02_Very_Special!!_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "very special!! (アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_03_very_special!!_(アルバムバージョン)_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "very special!! (アルバムバージョン)",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_04_very_special!!_(アルバムバージョン)_サンボマスター.txt"
+    }
+  ]
+}
